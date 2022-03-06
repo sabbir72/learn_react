@@ -1,0 +1,18 @@
+.hello{
+ color: #000;
+ background-color: blue;
+ text-transform: uppercase;
+}
+
+.camp{
+    color: green;
+    background-color: royalblue;
+    text-transform: uppercase;
+    font-size: large;
+}
+.Id{
+    color: rgb(4, 236, 16);
+    border: 1px solid green;
+    background-color: red;
+    font-weight: 600;
+}
